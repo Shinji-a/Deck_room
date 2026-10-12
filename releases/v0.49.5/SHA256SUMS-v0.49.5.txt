@@ -1,0 +1,2 @@
+12ecbd7fac31a436eed0f472e249c4149ff26b19e784c36d59bf1c7eca48bf18  DeckLoom-v0.49.5-source.zip
+ed313f0fea5e8600a348d8666d6fb9fa675feeb903c2e8a050ea06584d71bf8e  DeckLoom-v0.49.5-patch-from-v0.49.4.zip
